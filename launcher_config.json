@@ -1,0 +1,52 @@
+{
+  "project_name": "Play Russia",
+  "logo_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/logo.png",
+  "background_url": "",
+
+  "urls": {
+    "cdn": "https://6942f009858f5.xvest5.ru/brilliant-cdn/",
+    "Пожертвовать": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "форум": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "поддержка": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "телеграмма": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "vk": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "discord": "https://t.me/+1e1Gie_WTdU5YjFi",
+    "конфиденциальность": "https://t.me/+1e1Gie_WTdU5YjFi"
+  },
+
+  "серверы": [
+    {
+      "имя": "01 | Moscow",
+      "ip": "51.75.232.65",
+      "порт": 1373,
+      "x2": false,
+      "онлайн": 0,
+      "maxonline": 50,
+      "статус": "онлайн",
+      "цвет": "4CAF50"
+    }
+  ],
+
+  "новости": [
+    {
+      «title»: «Открытие!»,
+      "изображение": "https://sun9-78.userapi.com/s/v1/if2/TddwVQcqIBcXEqSpo_8jkE37rLxQWZlCjIR0c_hLlbFc7KgR1j9TnD6n5a0UJrHpP1SI-gx-QUgiDhUaxEUKV2vX.jpg?quality=96&as=32x15,48x22,72x33,108x50,160x74,240x111,360x166,480x222,540x249,640x295,720x332,1080x498,1280x591,1440x665,2340x1080&from=bu&cs=2340x0",
+      "text": "Добро пожаловать!",
+      "дата": "2026-06-05"
+    }
+  ],
+
+  "кэш": {
+    "enabled": true,
+    "zip_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/cache.zip",
+    "zip_sha256": "44766daa796315b89e2d8cd0b1d3d03e38eb3ebad98e37bcfa0f5bbb29bfc026",
+    "zip_size": 591396864,
+    "версия": 1
+  },
+
+  "версия": {
+    "код": 612622272,
+    "имя": "1.0.0",
+    "apk_url": ""
+  }
+}
